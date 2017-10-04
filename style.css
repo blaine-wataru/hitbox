@@ -1,0 +1,50 @@
+.ui.right.aligned.container {
+  width: 800px;
+}
+
+.ui.compact.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  background-color: #eeeeee;
+}
+
+.ui.midmenu.grid.container {
+  background-color: #f6f6f6;
+  height: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.ui.centered.image {
+  padding-top: 25px;
+}
+
+.ui.borderless.midmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.grid.text {
+  text-align: left;
+  font-size: 20px;
+  color: black;
+  padding: 10px;
+}
+
+.ui.relaxed.left.aligned.three.column.grid.container {
+  background-color: #f6f6f6;
+}
+
+.footer-background {
+  padding-top: 30px;
+}
+
+.payment-text {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.credit-cards {
+  padding-top: 20px;
+  text-align: center;
+}
